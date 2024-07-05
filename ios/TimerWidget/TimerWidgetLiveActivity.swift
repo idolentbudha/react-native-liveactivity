@@ -151,7 +151,7 @@ struct TimerWidgetLiveActivity: Widget {
           // more content
         }
       } compactLeading: {
-        Text("L")
+        Text("🤩")  
       } compactTrailing: {
         if (context.state.isRunning()) {
           Text(
